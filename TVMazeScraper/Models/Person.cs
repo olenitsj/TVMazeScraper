@@ -1,4 +1,4 @@
-﻿namespace TVMazeScraper
+﻿namespace TVMazeScraper.Models
 {
     public class Person
     {

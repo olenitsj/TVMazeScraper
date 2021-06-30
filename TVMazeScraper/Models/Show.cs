@@ -1,7 +1,7 @@
 ﻿using Microsoft.WindowsAzure.Storage.Table;
 using System.Collections.Generic;
 
-namespace TVMazeScraper
+namespace TVMazeScraper.Models
 {
     public class Show : TableEntity
     {

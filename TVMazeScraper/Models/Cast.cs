@@ -1,4 +1,4 @@
-﻿namespace TVMazeScraper
+﻿namespace TVMazeScraper.Models
 {
     class Cast
     {
